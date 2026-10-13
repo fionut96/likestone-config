@@ -1,5 +1,5 @@
 {
-  "app_disabled": true,
+  "app_disabled": false,
   "add_product_enabled": true,
   "publish_enabled": true,
   "drafts_tab_enabled": true,
