@@ -3,6 +3,9 @@
   "add_product_enabled": true,
   "publish_enabled": true,
   "drafts_tab_enabled": true,
+  "ai_enabled": true,
+  "ai_provider": "claude",
+  "ai_model": null,
 
   "max_photos": 8,
   "image_max_dimension": 2000,
