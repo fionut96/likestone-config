@@ -1,0 +1,15 @@
+{
+  "add_product_enabled": true,
+  "publish_enabled": true,
+  "drafts_tab_enabled": true,
+
+  "max_photos": 8,
+  "image_max_dimension": 2000,
+
+  "announcement": null,
+
+  "maintenance_mode": false,
+  "maintenance_message": null,
+  "minimum_app_version": null,
+  "update_url": null
+}
