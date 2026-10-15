@@ -1,0 +1,976 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-15T10:34:49+00:00",
+  "collections": [
+    {
+      "name": "Avant Collection 2026",
+      "groups": [
+        {
+          "name": "1000 Blanche",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1000 Blanche/1001_Blanche_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000 Blanche/thumbs/1001_Blanche_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/1000 Blanche/1001_Blanche_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000 Blanche/thumbs/1001_Blanche_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/1000 Blanche/1001_Blanche_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000 Blanche/thumbs/1001_Blanche_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1000 Dijon",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1000 Dijon/1000_Dijonа_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000 Dijon/thumbs/1000_Dijonа_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/1000 Dijon/1000_Dijonа_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000 Dijon/thumbs/1000_Dijonа_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/1000 Dijon/1000_Dijonа_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000 Dijon/thumbs/1000_Dijonа_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1000L Blanche",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1000L Blanche/1001L_Blanche_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/1000L Blanche/thumbs/1001L_Blanche_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1004 White Quartz",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1004 White Quartz/1004_White_Quartz_int.jpg",
+              "thumb": "gallery/Avant Collection 2026/1004 White Quartz/thumbs/1004_White_Quartz_int.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1012 Amiens",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1012 Amiens/1012-Amiens_2.jpg",
+              "thumb": "gallery/Avant Collection 2026/1012 Amiens/thumbs/1012-Amiens_2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1050 Reims",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1050 Reims/1050_Reims_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/1050 Reims/thumbs/1050_Reims_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1220 Clermont",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1220 Clermont/1220_Clermont_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/1220 Clermont/thumbs/1220_Clermont_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/1220 Clermont/1220_Clermont_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/1220 Clermont/thumbs/1220_Clermont_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/1220 Clermont/1220_Clermont_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/1220 Clermont/thumbs/1220_Clermont_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1270 Lumiere",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/1270 Lumiere/1270_Lumiere_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/1270 Lumiere/thumbs/1270_Lumiere_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2030 Botticino Bourges",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/2030 Botticino Bourges/2030-Botticino-Bourges_2.jpg",
+              "thumb": "gallery/Avant Collection 2026/2030 Botticino Bourges/thumbs/2030-Botticino-Bourges_2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2100 Champagne",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/2100 Champagne/2100_Champagne_2.jpg",
+              "thumb": "gallery/Avant Collection 2026/2100 Champagne/thumbs/2100_Champagne_2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/2100 Champagne/2100_Champagne_3.jpg",
+              "thumb": "gallery/Avant Collection 2026/2100 Champagne/thumbs/2100_Champagne_3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/2100 Champagne/2100_Champagne_4.jpg",
+              "thumb": "gallery/Avant Collection 2026/2100 Champagne/thumbs/2100_Champagne_4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2105 Loiret",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/2105 Loiret/2105_Loiret_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/2105 Loiret/thumbs/2105_Loiret_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2110 Montmartre",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/2110 Montmartre/2110_Montmartre__int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/2110 Montmartre/thumbs/2110_Montmartre__int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2115 Azur Creme",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/2115 Azur Creme/2115_Azur_Creme_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/2115 Azur Creme/thumbs/2115_Azur_Creme_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2130 Nimes Marfil",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/2130 Nimes Marfil/2130-Nimes-Marfil-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/2130 Nimes Marfil/thumbs/2130-Nimes-Marfil-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/2130 Nimes Marfil/2130-Nimes-Marfil-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/2130 Nimes Marfil/thumbs/2130-Nimes-Marfil-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/2130 Nimes Marfil/2130-Nimes-Marfil-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/2130 Nimes Marfil/thumbs/2130-Nimes-Marfil-4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/2130 Nimes Marfil/2130-Nimes-Marfil-5.jpg",
+              "thumb": "gallery/Avant Collection 2026/2130 Nimes Marfil/thumbs/2130-Nimes-Marfil-5.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5700 Taj Amelie",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5700 Taj Amelie/5700-Taj-Amelie-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/5700 Taj Amelie/thumbs/5700-Taj-Amelie-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5700 Taj Amelie/5700-Taj-Amelie-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/5700 Taj Amelie/thumbs/5700-Taj-Amelie-3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5710 Calacatta Normandie",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int21_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int21_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int22_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int22_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int23_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int23_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int24_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int24_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int25_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int25_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int26_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int26_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5710 Calacatta Normandie/5710_Calacatta_Normandie_int27_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5710 Calacatta Normandie/thumbs/5710_Calacatta_Normandie_int27_v4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5720 Calacatta Riviera",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int21_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int21_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int22_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int22_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int23_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int23_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int24_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int24_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int25_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int25_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int26_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int26_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5720 Calacatta Riviera/5720_Calacatta_Riviera_int27_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5720 Calacatta Riviera/thumbs/5720_Calacatta_Riviera_int27_v4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5750 Calacatta Chery",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5750 Calacatta Chery/5750-Calacatta-Chery-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/5750 Calacatta Chery/thumbs/5750-Calacatta-Chery-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5750 Calacatta Chery/5750-Calacatta-Chery-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/5750 Calacatta Chery/thumbs/5750-Calacatta-Chery-3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5751 Calacatta Besson",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5751 Calacatta Besson/5751-Calacatta-Besson-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/5751 Calacatta Besson/thumbs/5751-Calacatta-Besson-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5751 Calacatta Besson/5751-Calacatta-Besson-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/5751 Calacatta Besson/thumbs/5751-Calacatta-Besson-3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5753 Calacatta Aveyron",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5753 Calacatta Aveyron/5753-Calacatta-Aveyron-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/5753 Calacatta Aveyron/thumbs/5753-Calacatta-Aveyron-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5753 Calacatta Aveyron/5753-Calacatta-Aveyron-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/5753 Calacatta Aveyron/thumbs/5753-Calacatta-Aveyron-3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5754 Calacatta Viviez",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5754 Calacatta Viviez/5754-Calacatta-Viviez-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/5754 Calacatta Viviez/thumbs/5754-Calacatta-Viviez-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5754 Calacatta Viviez/5754-Calacatta-Viviez-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/5754 Calacatta Viviez/thumbs/5754-Calacatta-Viviez-3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "5900 Patagonia Brive",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-5.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-5.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-6.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-6.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-7.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-7.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-8.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-8.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-9.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-9.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-10.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-10.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-11.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-11.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/5900 Patagonia Brive/5900-Patagonia-Brive-12.jpg",
+              "thumb": "gallery/Avant Collection 2026/5900 Patagonia Brive/thumbs/5900-Patagonia-Brive-12.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7005 Gordes",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7005 Gordes/7005-Gordes-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7005 Gordes/thumbs/7005-Gordes-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7005 Gordes/7005-Gordes-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7005 Gordes/thumbs/7005-Gordes-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7005 Gordes/7005-Gordes-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/7005 Gordes/thumbs/7005-Gordes-4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7005 Gordes/7005-Gordes-5.jpg",
+              "thumb": "gallery/Avant Collection 2026/7005 Gordes/thumbs/7005-Gordes-5.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7030 Calacatta Chenonceau",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7030 Calacatta Chenonceau/7030_Calacatta_Chenonceau_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/7030 Calacatta Chenonceau/thumbs/7030_Calacatta_Chenonceau_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7060 Calacatta Mont Saint-Michel",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/thumbs/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/thumbs/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v4.jpg",
+              "thumb": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/thumbs/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v5.jpg",
+              "thumb": "gallery/Avant Collection 2026/7060 Calacatta Mont Saint-Michel/thumbs/7060-Calacatta-Mont-Saint-Michel_inter_nadp_v5.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7070 Calacatta Versailles",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7070 Calacatta Versailles/7070_Calacatta_Versailles_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7070 Calacatta Versailles/thumbs/7070_Calacatta_Versailles_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7070 Calacatta Versailles/7070_Calacatta_Versailles_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7070 Calacatta Versailles/thumbs/7070_Calacatta_Versailles_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7070 Calacatta Versailles/7070_Calacatta_Versailles_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7070 Calacatta Versailles/thumbs/7070_Calacatta_Versailles_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7200 Aquitaine Blanca",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7200 Aquitaine Blanca/7200_Aquitaine_Blanca_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7200 Aquitaine Blanca/thumbs/7200_Aquitaine_Blanca_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7200 Aquitaine Blanca/7200_Aquitaine_Blanca_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7200 Aquitaine Blanca/thumbs/7200_Aquitaine_Blanca_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7200 Aquitaine Blanca/7200_Aquitaine_Blanca_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7200 Aquitaine Blanca/thumbs/7200_Aquitaine_Blanca_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7400 Calacatta Dauphine",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7400 Calacatta Dauphine/7400_Calacatta_Dauphine_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7400 Calacatta Dauphine/thumbs/7400_Calacatta_Dauphine_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7400 Calacatta Dauphine/7400_Calacatta_Dauphine_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7400 Calacatta Dauphine/thumbs/7400_Calacatta_Dauphine_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7400 Calacatta Dauphine/7400_Calacatta_Dauphine_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7400 Calacatta Dauphine/thumbs/7400_Calacatta_Dauphine_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7404 Calacatta Venato",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7404 Calacatta Venato/7404_Calacatta_Venato_int.jpg",
+              "thumb": "gallery/Avant Collection 2026/7404 Calacatta Venato/thumbs/7404_Calacatta_Venato_int.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7440 Calacatta Bianco",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7440 Calacatta Bianco/7440_Calacatta_Bianco_int.jpg",
+              "thumb": "gallery/Avant Collection 2026/7440 Calacatta Bianco/thumbs/7440_Calacatta_Bianco_int.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7470 Calacatta Bearn",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7470 Calacatta Bearn/7470_Calacatta_Bearn_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7470 Calacatta Bearn/thumbs/7470_Calacatta_Bearn_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7470 Calacatta Bearn/7470_Calacatta_Bearn_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7470 Calacatta Bearn/thumbs/7470_Calacatta_Bearn_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7470 Calacatta Bearn/7470_Calacatta_Bearn_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7470 Calacatta Bearn/thumbs/7470_Calacatta_Bearn_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7500 Calacatta Arras",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7500 Calacatta Arras/7500_Calacatta_Arras_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7500 Calacatta Arras/thumbs/7500_Calacatta_Arras_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7500 Calacatta Arras/7500_Calacatta_Arras_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7500 Calacatta Arras/thumbs/7500_Calacatta_Arras_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7500 Calacatta Arras/7500_Calacatta_Arras_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7500 Calacatta Arras/thumbs/7500_Calacatta_Arras_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7540 Calacatta Concorde",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7540 Calacatta Concorde/7540_Calacatta_Concorde_int1_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7540 Calacatta Concorde/thumbs/7540_Calacatta_Concorde_int1_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7540 Calacatta Concorde/7540_Calacatta_Concorde_int2_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7540 Calacatta Concorde/thumbs/7540_Calacatta_Concorde_int2_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7540 Calacatta Concorde/7540_Calacatta_Concorde_int3_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7540 Calacatta Concorde/thumbs/7540_Calacatta_Concorde_int3_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7540 Calacatta Concorde/7540_Calacatta_Concorde_int4_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7540 Calacatta Concorde/thumbs/7540_Calacatta_Concorde_int4_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7540 Calacatta Concorde/7540_Calacatta_Concorde_int5_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7540 Calacatta Concorde/thumbs/7540_Calacatta_Concorde_int5_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7540 Calacatta Concorde/7540_Calacatta_Concorde_int6_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7540 Calacatta Concorde/thumbs/7540_Calacatta_Concorde_int6_v2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7550 Calacatta Cannes Gold",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/7550_Calacatta_Cannes_Gold_int1_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/thumbs/7550_Calacatta_Cannes_Gold_int1_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/7550_Calacatta_Cannes_Gold_int2_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/thumbs/7550_Calacatta_Cannes_Gold_int2_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/7550_Calacatta_Cannes_Gold_int3_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/thumbs/7550_Calacatta_Cannes_Gold_int3_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/7550_Calacatta_Cannes_Gold_int4_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/thumbs/7550_Calacatta_Cannes_Gold_int4_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/7550_Calacatta_Cannes_Gold_int5_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/thumbs/7550_Calacatta_Cannes_Gold_int5_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/7550_Calacatta_Cannes_Gold_int6_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550 Calacatta Cannes Gold/thumbs/7550_Calacatta_Cannes_Gold_int6_v2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7550H Calacatta Cannes Gold",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/7550H-Calacatta-Cannes-Gold-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/thumbs/7550H-Calacatta-Cannes-Gold-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/7550H-Calacatta-Cannes-Gold-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/thumbs/7550H-Calacatta-Cannes-Gold-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/7550H-Calacatta-Cannes-Gold-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/thumbs/7550H-Calacatta-Cannes-Gold-4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/7550H-Calacatta-Cannes-Gold-5.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/thumbs/7550H-Calacatta-Cannes-Gold-5.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/7550H-Calacatta-Cannes-Gold-6.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/thumbs/7550H-Calacatta-Cannes-Gold-6.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/7550H-Calacatta-Cannes-Gold-7.jpg",
+              "thumb": "gallery/Avant Collection 2026/7550H Calacatta Cannes Gold/thumbs/7550H-Calacatta-Cannes-Gold-7.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7570 Calacatta Monaco",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7570 Calacatta Monaco/7570_Calacatta_Monaco_int1_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7570 Calacatta Monaco/thumbs/7570_Calacatta_Monaco_int1_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7570 Calacatta Monaco/7570_Calacatta_Monaco_int2_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7570 Calacatta Monaco/thumbs/7570_Calacatta_Monaco_int2_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7570 Calacatta Monaco/7570_Calacatta_Monaco_int3_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7570 Calacatta Monaco/thumbs/7570_Calacatta_Monaco_int3_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7570 Calacatta Monaco/7570_Calacatta_Monaco_int4_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7570 Calacatta Monaco/thumbs/7570_Calacatta_Monaco_int4_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7570 Calacatta Monaco/7570_Calacatta_Monaco_int5_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7570 Calacatta Monaco/thumbs/7570_Calacatta_Monaco_int5_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7570 Calacatta Monaco/7570_Calacatta_Monaco_int6_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7570 Calacatta Monaco/thumbs/7570_Calacatta_Monaco_int6_v2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7580 Calacatta Pantin",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7580 Calacatta Pantin/7580_Calacatta_Pantin_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/7580 Calacatta Pantin/thumbs/7580_Calacatta_Pantin_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7580 Calacatta Pantin/7580_Calacatta_Pantin_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7580 Calacatta Pantin/thumbs/7580_Calacatta_Pantin_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7580 Calacatta Pantin/7580_Calacatta_Pantin_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7580 Calacatta Pantin/thumbs/7580_Calacatta_Pantin_int3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7580 Calacatta Pantin/7580_Calacatta_Pantin_int4.jpg",
+              "thumb": "gallery/Avant Collection 2026/7580 Calacatta Pantin/thumbs/7580_Calacatta_Pantin_int4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7580 Calacatta Pantin/7580_Calacatta_Pantin_int5.jpg",
+              "thumb": "gallery/Avant Collection 2026/7580 Calacatta Pantin/thumbs/7580_Calacatta_Pantin_int5.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7580 Calacatta Pantin/7580_Calacatta_Pantin_int6.jpg",
+              "thumb": "gallery/Avant Collection 2026/7580 Calacatta Pantin/thumbs/7580_Calacatta_Pantin_int6.jpg"
+            }
+          ]
+        },
+        {
+          "name": "7970 Calacatta Troyes",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/7970 Calacatta Troyes/7970-Calacatta-Troyes-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/7970 Calacatta Troyes/thumbs/7970-Calacatta-Troyes-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7970 Calacatta Troyes/7970-Calacatta-Troyes-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/7970 Calacatta Troyes/thumbs/7970-Calacatta-Troyes-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/7970 Calacatta Troyes/7970-Calacatta-Troyes-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/7970 Calacatta Troyes/thumbs/7970-Calacatta-Troyes-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8011H Nantes",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8011H Nantes/8011H-Nantes-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8011H Nantes/thumbs/8011H-Nantes-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8011H Nantes/8011H-Nantes-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/8011H Nantes/thumbs/8011H-Nantes-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8011H Nantes/8011H-Nantes-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/8011H Nantes/thumbs/8011H-Nantes-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8100 Mulen",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100-Mulen-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100-Mulen-1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100-Mulen-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100-Mulen-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100-Mulen-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100-Mulen-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100-Mulen-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100-Mulen-4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100_mulen_int1_mat-1-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100_mulen_int1_mat-1-1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100_mulen_int3_mat-1-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100_mulen_int3_mat-1-1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100_mulen_int4_mat-1-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100_mulen_int4_mat-1-1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100_mulen_int5_mat-1-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100_mulen_int5_mat-1-1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100_mulen_int6_mat-1-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100_mulen_int6_mat-1-1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8100 Mulen/8100_mulen_int 8-1.jpg",
+              "thumb": "gallery/Avant Collection 2026/8100 Mulen/thumbs/8100_mulen_int 8-1.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8580 Tarn",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8580 Tarn/8580-Tarn-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8580 Tarn/thumbs/8580-Tarn-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8580 Tarn/8580-Tarn-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/8580 Tarn/thumbs/8580-Tarn-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8580 Tarn/8580-Tarn-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/8580 Tarn/thumbs/8580-Tarn-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8590 Chablis",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8590 Chablis/8950 Chablis.jpg.jpeg",
+              "thumb": "gallery/Avant Collection 2026/8590 Chablis/thumbs/8950 Chablis.jpg.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8590 Chablis/8950 Chablis_1.jpeg",
+              "thumb": "gallery/Avant Collection 2026/8590 Chablis/thumbs/8950 Chablis_1.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8600H Chamonix",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8600H Chamonix/8600H_Chamonix_int1_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8600H Chamonix/thumbs/8600H_Chamonix_int1_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8600H Chamonix/8600H_Chamonix_int2_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8600H Chamonix/thumbs/8600H_Chamonix_int2_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8600H Chamonix/8600H_Chamonix_int3_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8600H Chamonix/thumbs/8600H_Chamonix_int3_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8600H Chamonix/8600H_Chamonix_int4_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8600H Chamonix/thumbs/8600H_Chamonix_int4_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8600H Chamonix/8600H_Chamonix_int5_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8600H Chamonix/thumbs/8600H_Chamonix_int5_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8600H Chamonix/8600H_Chamonix_int6_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8600H Chamonix/thumbs/8600H_Chamonix_int6_mat.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8800H Cassis",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8800H Cassis/8800H_Cassis_int1_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8800H Cassis/thumbs/8800H_Cassis_int1_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8800H Cassis/8800H_Cassis_int2_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8800H Cassis/thumbs/8800H_Cassis_int2_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8800H Cassis/8800H_Cassis_int3_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8800H Cassis/thumbs/8800H_Cassis_int3_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8800H Cassis/8800H_Cassis_int4_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8800H Cassis/thumbs/8800H_Cassis_int4_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8800H Cassis/8800H_Cassis_int5_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8800H Cassis/thumbs/8800H_Cassis_int5_mat.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8800H Cassis/8800H_Cassis_int6_mat.jpg",
+              "thumb": "gallery/Avant Collection 2026/8800H Cassis/thumbs/8800H_Cassis_int6_mat.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8811H Reze",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8811H Reze/8811H-Reze-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8811H Reze/thumbs/8811H-Reze-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8811H Reze/8811H-Reze-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/8811H Reze/thumbs/8811H-Reze-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8811H Reze/8811H-Reze-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/8811H Reze/thumbs/8811H-Reze-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8900H Bretagne",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int21_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int21_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int22_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int22_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int23_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int23_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int24_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int24_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int25_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int25_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int26_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int26_v2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/8900H Bretagne/8900H_Bretagne_int27_v2.jpg",
+              "thumb": "gallery/Avant Collection 2026/8900H Bretagne/thumbs/8900H_Bretagne_int27_v2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9005 Bourbonnais",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9005 Bourbonnais/9005_Bourbonnais_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/9005 Bourbonnais/thumbs/9005_Bourbonnais_int11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9010 Corsica",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9010 Corsica/9010-Corsica_2.jpg",
+              "thumb": "gallery/Avant Collection 2026/9010 Corsica/thumbs/9010-Corsica_2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9010 Corsica/9010-Corsica_3.jpg",
+              "thumb": "gallery/Avant Collection 2026/9010 Corsica/thumbs/9010-Corsica_3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9030 Royal Beige",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9030 Royal Beige/9030-Royal-Beige-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/9030 Royal Beige/thumbs/9030-Royal-Beige-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9030 Royal Beige/9030-Royal-Beige-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/9030 Royal Beige/thumbs/9030-Royal-Beige-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9030 Royal Beige/9030-Royal-Beige-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/9030 Royal Beige/thumbs/9030-Royal-Beige-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9050 Gris Fonce",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9050 Gris Fonce/9050_Calacatta_Gris_Fonce_int1.jpg",
+              "thumb": "gallery/Avant Collection 2026/9050 Gris Fonce/thumbs/9050_Calacatta_Gris_Fonce_int1.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9050 Gris Fonce/9050_Calacatta_Gris_Fonce_int2.jpg",
+              "thumb": "gallery/Avant Collection 2026/9050 Gris Fonce/thumbs/9050_Calacatta_Gris_Fonce_int2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9050 Gris Fonce/9050_Calacatta_Gris_Fonce_int3.jpg",
+              "thumb": "gallery/Avant Collection 2026/9050 Gris Fonce/thumbs/9050_Calacatta_Gris_Fonce_int3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9060 Patagonia Mortinica",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9060 Patagonia Mortinica/9060_Patagonia_Martinica_int11.jpg",
+              "thumb": "gallery/Avant Collection 2026/9060 Patagonia Mortinica/thumbs/9060_Patagonia_Martinica_int11.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9060 Patagonia Mortinica/9060_Patagonia_Martinica_int12.jpg",
+              "thumb": "gallery/Avant Collection 2026/9060 Patagonia Mortinica/thumbs/9060_Patagonia_Martinica_int12.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9070 Arabescato Alencon",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9070 Arabescato Alencon/9070-Arabescato-Alencon-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/9070 Arabescato Alencon/thumbs/9070-Arabescato-Alencon-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9070 Arabescato Alencon/9070-Arabescato-Alencon-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/9070 Arabescato Alencon/thumbs/9070-Arabescato-Alencon-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9070 Arabescato Alencon/9070-Arabescato-Alencon-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/9070 Arabescato Alencon/thumbs/9070-Arabescato-Alencon-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "9172 Blave",
+          "photos": [
+            {
+              "file": "gallery/Avant Collection 2026/9172 Blave/9172-Blave-2.jpg",
+              "thumb": "gallery/Avant Collection 2026/9172 Blave/thumbs/9172-Blave-2.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9172 Blave/9172-Blave-3.jpg",
+              "thumb": "gallery/Avant Collection 2026/9172 Blave/thumbs/9172-Blave-3.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9172 Blave/9172-Blave-4.jpg",
+              "thumb": "gallery/Avant Collection 2026/9172 Blave/thumbs/9172-Blave-4.jpg"
+            },
+            {
+              "file": "gallery/Avant Collection 2026/9172 Blave/9172-Blave-5.jpg",
+              "thumb": "gallery/Avant Collection 2026/9172 Blave/thumbs/9172-Blave-5.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
